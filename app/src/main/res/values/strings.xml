@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PIM</string>
+    <string name="intro_1">Controle total de vendas \ne fluxo de caixa</string>
+    <string name="intro_2">Tenha total controle \nsobre seus produtos</string>
+    <string name="intro_3">Seus dados totalmente seguro</string>
+    <string name="cadastro">Crie sua conta é grátis!</string>
+    <string name="frase_cadastro">Simples, fácil de usar e gratuito</string>
+    <string name="cadastroBtn">CADASTRE-SE</string>
+    <string name="intro_cadastro">Já possui cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login_face">Facebook</string>
+    <string name="login_txt">Acesse sua conta</string>
+    <string name="entrar">ENTRAR</string>
+</resources>
